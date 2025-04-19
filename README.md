@@ -7,6 +7,7 @@ Work in progress of a model context protocol server to interface with JetBrains 
 ### Tools
 
 - **get_issues**
+
   - Gets all issues of a user in YouTrack
 
 - **create_issue**
@@ -36,9 +37,5 @@ git clone https://github.com/AyrDS/youtrack-mcp.git
   }
 }
 ```
+
 You must change arguments 4 and 5. (Token and URL).
-
-
-## License
-
-This MCP server is licensed under the MIT License. This means you are free to use, modify, and distribute the software, subject to the terms and conditions of the MIT License. For more details, please see the LICENSE file in the project repository.
